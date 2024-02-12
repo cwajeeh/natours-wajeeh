@@ -38,9 +38,5 @@
   "devDependencies": {
     "parcel": "^2.7.0",
     "parcel-bundler": "^1.12.5"
-  },
-  "engines": {
-    "node": "16.13.1",
-    "npm": "8.1.2"
   }
 }
